@@ -1,6 +1,6 @@
-### 📚 Gradtutors – Bridging Graduates and Students for Quality Home Tutoring
+### 📚 Gradtutor – Bridging Graduates and Students for Quality Home Tutoring
 
-**Gradtutors** is a smart learning platform designed to connect qualified graduates with students seeking home tuition, ranging from pre-school to high school. By integrating AI-powered matching with human-verified KYC (Know Your Customer) processes, the app ensures both meaningful employment for graduates and trustworthy, high-quality education for students.
+**Gradtutor** is a smart learning platform designed to connect qualified graduates with students seeking home tuition, ranging from pre-school to high school. By integrating AI-powered matching with human-verified KYC (Know Your Customer) processes, the app ensures both meaningful employment for graduates and trustworthy, high-quality education for students.
 
 **Key Features:**
 - 🎓 **Graduate Onboarding:** Graduates register with their qualifications, expertise, and availability.
